@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshots
 
 ![Desktop View](./Images/flex-view.png)
-![Mobile View](./Images/flex-view-rspo.jpeg)
+![Mobile View](./Images/flex-view-respo.jpeg)
 
 ## My process
 
