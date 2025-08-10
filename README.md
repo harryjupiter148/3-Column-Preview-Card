@@ -7,6 +7,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
+  - [Link](#link)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learnt](#what-i-learnt)
@@ -25,6 +26,10 @@ Users should be able to:
 
 ![Desktop View](./Images/flex-view.png)
 ![Mobile View](./Images/flex-view-respo.jpeg)
+
+### Link
+
+- Live Site URL: [Preview Card](https://harryjupiter148.github.io/3-Column-Preview-Card/)
 
 ## My process
 
